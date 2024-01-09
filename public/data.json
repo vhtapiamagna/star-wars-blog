@@ -1,0 +1,72 @@
+[
+  {
+    "desc": "Es un héroe legendario en el universo de Star Wars, conocido por su valentía, su búsqueda de la justicia y su papel en la lucha contra el Imperio Galáctico. Su historia es un pilar fundamental de la franquicia de Star Wars y ha dejado una marca duradera en la cultura popular.",
+    "id": "C001",
+    "img": "https://i.pinimg.com/originals/52/66/c7/5266c76bf36195de14b194eaaa5559ee.png",
+    "characteristics": ["172", "Blond", "Blue", "Male"],
+    "name": "Luke S."
+  },
+  {
+    "desc": "Anteriormente conocido como Anakin Skywalker, Darth Vader es uno de los villanos más emblemáticos de Star Wars. Fue un Jedi que cayó al lado oscuro y se convirtió en el aprendiz del Emperador Palpatine.",
+    "id": "C002",
+    "img": "https://i.pinimg.com/originals/ed/66/04/ed6604189782718a733b5c5ce2470088.jpg",
+    "characteristics": ["189", "Calvo", "Amarillo", "Male"],
+    "name": "D. Vader"
+  },
+  {
+    "desc": "Princesa Leia es una líder de la Alianza Rebelde y una figura valiente en la lucha contra el Imperio Galáctico. Es conocida por su determinación y su icónico peinado.",
+    "id": "C003",
+    "img": "https://images2.alphacoders.com/980/980508.jpg",
+    "characteristics": ["169", "Marrón", "Marrón", "Female"],
+    "name": "P. Leia"
+  },
+  {
+    "desc": "Han Solo es un carismático contrabandista y piloto del Halcón Milenario. Se une a la Alianza Rebelde y se convierte en un héroe en la lucha contra el Imperio.",
+    "id": "C004",
+    "img": "data:image/jpeg;base64,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",
+    "characteristics": ["178", "Negro", "Marrón", "Male"],
+    "name": "Han Solo"
+  },
+  {
+    "desc": "Yoda es un maestro Jedi y uno de los seres más sabios de la galaxia. Es conocido por su sabiduría y habilidades en la Fuerza.",
+    "id": "C005",
+    "img": "https://i.pinimg.com/736x/70/21/8f/70218f62eea8adc87ae703c32b852322.jpg",
+    "characteristics": ["110", "Calvo", "Verde", "Unknown"],
+    "name": "Yoda"
+  },
+  {
+    "desc": "Obi-Wan Kenobi es un respetado maestro Jedi que desempeña un papel fundamental en la formación de Anakin Skywalker y Luke Skywalker.",
+    "id": "C006",
+    "img": "https://i.pinimg.com/564x/1d/25/12/1d251259f4fbad4c7496bc014927dfc1.jpg",
+    "characteristics": ["172", "Gris", "Azul", "Male"],
+    "name": "Obi-Wan"
+  },
+  {
+    "desc": "Rey es una poderosa Jedi que juega un papel importante en la trilogía de secuelas de Star Wars. Su origen es un misterio que se revela a lo largo de la saga.",
+    "id": "C007",
+    "img": "https://i.pinimg.com/1200x/38/fe/a0/38fea0f0d3a54ed14ca279ac0ff45a3e.jpg",
+    "characteristics": ["158", "Marrón", "Gris", "Female"],
+    "name": "Rey"
+  },
+  {
+    "desc": "Chewbacca es el leal copiloto wookiee de Han Solo y un miembro importante del equipo del Halcón Milenario.",
+    "id": "C008",
+    "img": "https://i.pinimg.com/originals/4b/24/c8/4b24c81ba827931a1e8484160ab8db61.jpg",
+    "characteristics": ["225", "Marrón", "Azul", "Male"],
+    "name": "Chewbacca"
+  },
+  {
+    "desc": "Padmé Amidala es una valiente líder política y madre de Luke Skywalker y Leia Organa. Su trágica historia se desarrolla a lo largo de la saga.",
+    "id": "C009",
+    "img": "https://i.pinimg.com/1200x/1e/f2/50/1ef25041d5579a7380398b97fb389b1a.jpg",
+    "characteristics": ["160", "Marrón", "Marrón", "Female"],
+    "name": "Amidala"
+  },
+  {
+    "desc": "C-3PO es un droide de protocolo dorado construido por Anakin Skywalker. Es conocido por su fluidez en múltiples idiomas y su preocupación constante por la etiqueta y el protocolo.",
+    "id": "C010",
+    "img": "https://i.pinimg.com/736x/19/a8/f5/19a8f54ece9540872fd1249c8ce8d3f9.jpg",
+    "characteristics": ["195", "Dorado", "Amarillo", "Desconocido"],
+    "name": "C-3PO"
+  }
+]
